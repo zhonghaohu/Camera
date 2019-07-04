@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="need_permissions">该摄像头需要打开并拍照保存</string>
+    <string name="sorry">很抱歉，由于未被赋予相应权限，camera停止运行</string>
+</resources>

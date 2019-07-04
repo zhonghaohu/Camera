@@ -1,0 +1,4 @@
+#Thu Jul 04 11:53:17 CST 2019
+base.0=D\:\\workspace\\Camera\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
